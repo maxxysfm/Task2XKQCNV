@@ -11,7 +11,7 @@ CREATE TABLE Books (
 
 INSERT INTO Books (Title, Author, Published)
 VALUES 
-	('Attila and Life P1', 'Szabó Attila', '2018-11-20'),
+	('Attila and Life', 'Szabó Attila', '2018-11-20'),
 	('Attila and Life Part 2', 'Szabó Attila', '2018-11-22'),
 	('Unity Programming book', 'Some Programmer', '2020-5-22'),
 	('Wow Classic vs Wow Retail', 'Brother Brother', '2018-11-22'),
