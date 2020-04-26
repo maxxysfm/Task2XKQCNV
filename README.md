@@ -25,7 +25,7 @@ Or just simply download all the files in this repo.
 
 4. Use the **SQLQuery.sql** query on your **localhost** server
 
-![](https://dl.dropboxusercontent.com/s/455gp344c5l24o2/Ssms_KyyGNxG9vr.png)![](https://dl.dropboxusercontent.com/s/dnooao0xpjve3l2/Ssms_UTqXIjHAoA.png)
+![](https://dl.dropboxusercontent.com/s/455gp344c5l24o2/Ssms_KyyGNxG9vr.png)![](https://dl.dropboxusercontent.com/s/dnooao0xpjve3l2/Ssms_UTqXIjHAoA.png)![](https://dl.dropboxusercontent.com/s/1kmxv2tekhe5g4g/Ssms_vesbo5ENBp.png)
 
 5. Open the project **Task2XKQCNV.sln** with Visual Studio.
 6. Make sure to verify that SQLProvider is added to your solution:
