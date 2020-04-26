@@ -1,4 +1,7 @@
+USE master;
+DROP DATABASE IF EXISTS Task2;
 CREATE DATABASE Task2;
+GO
 USE Task2;
 CREATE TABLE Books (
     Title varchar(255),
