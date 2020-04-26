@@ -32,7 +32,11 @@ Or just simply download all the files in this repo.
 
 ![](https://dl.dropboxusercontent.com/s/fdoy7ng9pzumw4y/devenv_5qKFiPq4vj.png)![](https://dl.dropboxusercontent.com/s/w6tbtrreh8p8uv7/devenv_N6r3C54QSo.png)
 
-6. Build the project
+6. Make sure to add/check if **System.Data** and **System.Linq** is added!
+
+![](https://dl.dropboxusercontent.com/s/wzequzlyje7vw0a/devenv_aZqobGNPa6.png)
+
+7. Build the project
 
 ![](https://dl.dropboxusercontent.com/s/v5we82rbvsv01oh/devenv_rxS1S1vlam.png)
 
