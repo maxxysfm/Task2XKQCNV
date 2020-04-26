@@ -38,8 +38,11 @@ Or just simply download all the files in this repo.
 
 # Usage:
 ![](https://dl.dropboxusercontent.com/s/97420xqu4sdldij/firefox_sdQ5WdClqw.png)
+Filtering:
+- Only filters elements that are entered in the textbox, date will always be filtered if the filter is enabled.
 
 # Known bugs/errors:
 1. The display of records is done via **textView**, instead of [listModel](https://developers.websharper.com/docs/v4.x/fs/ui).
 2. The display of Hungarian letters (ó,á, etc) is incorrect in HTML parts. (Excluding textView)
+3. The filtering is case sensitive.
 - Possible fix that didn't work, changing from **UTF-8** to **ISO-8859-1**
